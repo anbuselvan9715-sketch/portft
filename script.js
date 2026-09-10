@@ -59,3 +59,4 @@ contactForm?.addEventListener('submit', (event) => {
   status.textContent = 'Thanks, your message is ready to send. I will be in touch soon.';
   contactForm.reset();
 });
+
